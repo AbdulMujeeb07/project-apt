@@ -1,0 +1,19 @@
+﻿Attribute Name,Description,Data Type,Source,Example Data
+Post id,A unique identifier for the post,Alphanumeric,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,12345
+Date,The date when the post was created or updated,Date/time,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,5/3/2022 15:27
+Year,The year in which the property was built,Numeric,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,2000-2018
+Nhood,The name of the neighborhood where the property is located,Alphanumeric,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,Upper East Side
+City,The name of the city where the property is located,Alphanumeric,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,San Francisco Bay Area 
+County,The name of the county where the property is located,Alphanumeric,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,San Francisco Bay Area
+Price,The price of the property,Numeric,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,500000
+Beds,The number of bedrooms in the property,Numeric,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,2
+Baths,The number of bathrooms on the property,Numeric,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,1.5
+Sqft,The total area of the property in square feet,Numeric,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,1000
+Room in apt,A Boolean variable indicating whether the property is a single room in an apartment,Boolean,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,TRUE
+Address,The street address of the property,Alphanumeric,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,123 Main St
+Latitude,The latitude coordinate of the property's location,Numeric,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,40.748817
+Longitude,The longitude coordinate of the property's location,Numeric,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,-73.985428
+Title,The title or headline of the post,Alphanumeric,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,Beautiful Apartment for Sale
+Description,A brief description of the property and its features,Alphanumeric,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,Lovely 2-bedroom apartment with city views
+Details,"Additional details about the property, such as amenities, utilities, or nearby attractions",Alphanumeric,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,"Gym, rooftop terrace, laundry room, Cats "
+Length description ,Count of description for apartment details,Numeric,https://www.kaggle.com/datasets/michaelbryantds/bay-area-craigslist-rentals,"355 flat, 301 flat"
